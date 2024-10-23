@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #4CAF50;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+main {
+    padding: 20px;
+}
+
+.primeira {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.primeira img {
+    width: 5rem; 
+    height: 5rem; 
+    margin: 10px 0; 
+}
+
+.segunda {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0;
+    background-color: #e0f7fa;
+}
+
+.segunda img {
+    width: 5rem; 
+    height: 5rem; 
+    margin: 10px 0; 
+}
+
+.terceira {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.terceira img {
+    width: 5rem; 
+    height: 5rem; 
+    margin: 10px 0; 
+}
+
+.quarta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0;
+    background-color: #e0f7fa;
+}
+
+.quarta img {
+    width: 5rem; 
+    height: 5rem; 
+    margin: 10px 0; 
+}
+
+.quinta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.quinta img {
+    width: 5rem; 
+    height: 5rem; 
+    margin: 10px 0; 
+}
+
+
+.sexta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0;
+    background-color: #e0f7fa;
+}
+
+.sexta img {
+    width: 5rem; 
+    height: 5rem; 
+    margin: 10px 0; 
+}
